@@ -1,2 +1,2 @@
 # Data-Cleaning-Projects
-Here are projects where I cleaned data using SQL and/or Python
+Project 1: Cleaned world layoffs data in MySQL to prepare the data set for exploratory analysis and for time series analysis.
